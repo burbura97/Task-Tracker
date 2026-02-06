@@ -1,0 +1,5 @@
+{
+  "name": "Day-by-Date Productivity Planner",
+  "description": "A minimalist, dark-mode productivity planner that tracks daily tasks and calculates productivity scores based on a 3 AM daily reset cycle.",
+  "requestFramePermissions": []
+}
